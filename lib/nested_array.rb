@@ -24,7 +24,7 @@ def assembled_matrix
 end
 
 def sorted_matrix
-   greens=[CONVENTIONAL_PRODUCE,ORGANIC_PRODUCE]
+   greens=[CONVENTIONAL_PRODUCE.sort,ORGANIC_PRODUCE.sort]
 end
 
 def matrix_lookup(matrix, row, column)
