@@ -16,16 +16,8 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-def assembled_matrix
-  greens=[["Strawberries",
-  "Potatoes",
-  "Grapes",
-  "Avocadoes",
-  "Asparagus"],[ "Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"]]
+def assembled_matrixCONVENTIONAL_PRODUCE
+  greens=[[ORGANIC_PRODUCE],[ ]]
   
   
 end
