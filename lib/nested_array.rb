@@ -28,7 +28,7 @@ def assembled_matrix
   "Watermelon",
   "Eggplant"]]
   
-  greens
+  
 end
 
 def sorted_matrix
